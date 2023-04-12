@@ -1,0 +1,616 @@
+/* gabriela-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Gabriela';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/gabriela-v14-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/gabriela-v14-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+/* inter-regular - cyrillic_latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/inter-v12-cyrillic_latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/inter-v12-cyrillic_latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  /* inter-600 - cyrillic_latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/inter-v12-cyrillic_latin-600.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/inter-v12-cyrillic_latin-600.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  /* inter-700 - cyrillic_latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/inter-v12-cyrillic_latin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/inter-v12-cyrillic_latin-700.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  /* inter-900 - cyrillic_latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/inter-v12-cyrillic_latin-900.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/inter-v12-cyrillic_latin-900.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+  /* actor-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Actor';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/actor-v17-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/actor-v17-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+  /* anek-gurmukhi-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Anek Gurmukhi';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/anek-gurmukhi-v8-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/anek-gurmukhi-v8-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  /* anek-gurmukhi-600 - latin */
+  @font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Anek Gurmukhi';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/anek-gurmukhi-v8-latin-600.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/anek-gurmukhi-v8-latin-600.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+/* sree-krushnadevaraya-regular - latin */
+@font-face {
+    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Sree Krushnadevaraya';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/sree-krushnadevaraya-v21-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+         url('../fonts/sree-krushnadevaraya-v21-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+
+/* abhaya-libre-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/abhaya-libre-v13-latin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+       url('../fonts/abhaya-libre-v13-latin-700.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* abeezee-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'ABeeZee';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/abeezee-v22-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+       url('../fonts/abeezee-v22-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* cabin-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/cabin-v26-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
+       url('../fonts/cabin-v26-latin-regular.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+html{
+    box-sizing: border-box;
+}
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: normal;
+    color: #292929;
+}
+
+.wrapper{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+/* Header styles start */
+
+.header{
+    background-color: #BC983C;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 84px;
+    padding-top: 20px;
+    z-index: 99999;
+}
+.header_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.header_list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header_item{
+    margin-right: 45px;
+}
+.header_item:last-child{
+    margin-right: 0;
+}
+.header_link{
+    line-height: 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.header_link:hover, .header_link:focus, .header_link:active{
+    opacity: .75;
+}
+
+.hedaer_logo{
+    margin: auto;
+}
+
+.search_form_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    height: 44px;
+    width: 336px;
+    align-items: center;
+    background-color: #2B495E;
+    border-radius: 10px;
+}
+
+.search_form_info{
+    padding-left: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.search_form_field{
+    width: 240px;
+    padding-left: 32px;
+    background: transparent url(../img/svg/Search.svg) no-repeat left center;
+    background-size: 20px;
+    border: 0;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;    
+}
+
+.search_form_field::placeholder{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.header_basket{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 98px;
+}
+
+.header_basket_logo:hover, .header_link:focus, .header_link:active{
+    opacity: .75;
+}
+
+/* Header styles end */
+
+/* Sale styles start */
+
+.sale{
+    background-color: #2B495E;
+    height: 476px;
+}
+
+.sale_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.sale_title{
+    font-family: 'Actor';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #FFFFFF;
+    max-width: 734px;
+    padding-top: 156px;
+    margin-bottom: 67.2px;
+}
+
+.sale_buy{
+    margin: auto;
+    padding: 17px 20px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #2B495E;
+    width: 204px;
+    height: 62px;
+    left: 608px;
+    top: 300px;
+    background-color: #B4B4B4 #FFFFFF;
+    border: 1px solid #B4B4B4;
+    border-radius: 5px;
+}
+
+.sale_logo{
+    position: relative;
+    padding-top: 84px;
+    margin-bottom: 3px;
+}
+
+.sale_logo_title{
+    font-family: 'Anek Gurmukhi';
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    position: absolute;
+    max-width: 162px;
+    left: 48px;
+    bottom: 50px;
+    color: #2B495E;
+}
+
+.sale_link{
+    font-family: 'Sree Krushnadevaraya';
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+/* Sale styles end */
+
+/* Intro styles start */
+
+.intro{
+    min-height: 541px;
+}
+
+.intro_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.intro_title{
+    padding-top: 86px;
+    font-family: 'Anek Gurmukhi';
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    margin-bottom: 35px;
+}
+
+.intro_subtitle{
+    font-family: 'Anek Gurmukhi';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #8D8D8D;
+    max-width: 510px;
+}
+
+.intro_img{
+    padding-top: 35px;
+}
+
+/* Intro styles end */
+
+/* Goods styles start */
+
+.goods_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.goods_title{
+    font-family: 'Abhaya Libre';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.goods_view{
+    font-family: 'Sree Krushnadevaraya';
+    font-weight: 400;
+    line-height: 41px;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+    color: #292929;
+}
+
+.goods_form{
+    background: #F5F5F5;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    height: 416px;
+    width: 100%;
+    margin-top: 22px;
+    margin-bottom: 115px;
+}
+
+.goods_list{
+    padding-top: 60px;
+    max-width: 1154px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.goods_item{
+    margin-right: 92.5px;
+    background: #F5F5F5;
+    border-radius: 20px;
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.25));
+    width: 323px;
+    height: 296px;
+    display: flex;
+}
+
+.goods_item:last-child{
+    margin-right: 0;
+}
+
+.goods_box_img{
+    margin-bottom: 20px;
+}
+
+.goods_box_name{ 
+    font-weight: 600;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #2B495E;
+    margin-bottom: 5px;
+    margin-left: 16px;
+}
+
+.goods_box_price{
+    font-weight: 900;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #2B495E;
+    margin-left: 16px;
+}
+
+.goods_form_list{
+    padding-top: 84px;
+    padding-bottom: 60px;
+}
+
+/* Goods styles end */
+
+/* Footer styles start */
+
+.footer_wrapper{
+    height: 267px;
+    background: #2B495E; 
+}
+
+.footer_contacts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 72px;
+    margin-bottom: 21px;
+}
+
+.footer_email{
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    padding-left: 35px;
+    background: url(../img/svg/Mail.svg) no-repeat left center;
+    color: #FFFFFF;
+    margin-right: 50px;
+}
+
+.footer_phone{
+    font-family: 'ABeeZee';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    padding-left: 26px;
+    background: url(../img/svg/Phone.svg) no-repeat left center;
+    color: #FFFFFF;
+}
+
+.footer_info{
+    font-family: 'Cabin';
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 18px;
+}
+
+.footer_form_info{
+    display: flex;
+    justify-content: center;
+}
+
+.footer_form_field{
+    width: 482px;
+    height: 43px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #292929;
+    border: 0;
+    padding-left: 23px;
+}
+
+.footer_form_field::placeholder{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: rgba(105, 105, 105, 0.5);
+}
+
+.footer_search_button{
+    width: 73px;
+    background: #BC983C;
+    border-radius: 0px 10px 10px 0px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    border: 0;
+}
+
+.footer_search_button:hover, .header_link:focus, .header_link:active{
+    opacity: .75;
+}
+
+/* Footer styles end */
+
+/* Buy styles start */
+
+.buy_wrapper{
+    padding-top: 173px;
+    padding-bottom: 107px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.buy_img{
+    margin-right: 97px;
+}
+
+.buy_title{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #2B495E;
+    margin-bottom: 21px;
+}
+
+.buy_price{
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 39px;
+    color: #2B495E;
+    margin-bottom: 21px;
+}
+
+.buy_button{
+    width: 210px;
+    height: 62px;
+    background: #FFFFFF;
+    border: 1px solid #B4B4B4;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #2B495E;
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.25));
+}
+
+.buy_button:hover, .header_link:focus, .header_link:active{
+    opacity: .75;
+}
+
+/* Buy styles end */
+
+/* Basket styles start */
+
+.basket{
+    padding-top: 84px;
+}
+
+.basket_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.basket_goods{
+    margin-top: 54px;
+}
+
+.basket_buy{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.basket_price{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #292929;
+    margin-top: 54px;
+    margin-left: 30px;
+    margin-bottom: 54px;
+}
+
+.basket_button{
+    width: 204px;
+    height: 62px;
+    background: #FFFFFF;
+    border: 1px solid #B4B4B4;
+    border-radius: 5px;
+    filter: drop-shadow(0px 4px 20px rgba(0, 0, 0, 0.25));
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    align-items: center;
+    text-align: center;
+    color: #2B495E;
+    margin-left: 30px;
+}
+
+.basket_button:hover, .header_link:focus, .header_link:active{
+    opacity: .75;
+}
+
+/* Basket styles end */
